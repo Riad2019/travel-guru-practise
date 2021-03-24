@@ -1,0 +1,15 @@
+.travel_content{
+    width: 50%;
+    border-right: 2px solid white;
+    float: left;
+}
+.travel_Img{
+
+    width: 50%;
+    float: right;
+    display: inline-flex;
+    
+}
+.parent{
+    margin-top: 100px;
+}

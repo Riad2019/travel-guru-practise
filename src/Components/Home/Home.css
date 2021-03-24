@@ -1,0 +1,12 @@
+.home{
+    height: 1000px;
+    background-image: url(../../Image/background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+.effect{
+    background-color: black;
+    height: 5px;
+   opacity: 0.8;
+}

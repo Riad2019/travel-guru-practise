@@ -1,0 +1,9 @@
+
+.image_section img{
+    width: 80%;
+    height: 50%;
+    cursor: pointer;
+}
+.image_section h2{
+    text-align: center;
+}
